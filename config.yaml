@@ -1,0 +1,15 @@
+baseurl: "http://richvisotcky.com/"
+languageCode: "en-us"
+title: "Rich with Agility"
+canonifyURLs: true
+theme: "hugo-zen"
+
+
+# copyright: "(c) 2015 Rich Visotcky, All rights reserved."
+author: "Rich Visotcky"
+
+params:
+  logo: "/images/profile.jpg"
+  copyright: "(c) 2015 Rich Visotcky, All rights reserved."
+  #github: "https://github.com/omeganot"
+  #linkedin: "https://www.linkedin.com/in/richvisotcky"
