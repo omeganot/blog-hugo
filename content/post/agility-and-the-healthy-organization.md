@@ -1,7 +1,8 @@
 +++
 date = "2016-02-04T16:35:13-06:00"
 title = "Agility and the Healthy Organization"
-
+tags = ["agile", "business", "org health", "teams"]
+categories = ["business agility", "organizational health"]
 +++
 
 A coworker recently pointed me to an image from a SolutionsIQ blog post [The Third Wave of Agile](http://www.solutionsiq.com/the-third-wave-of-agile/) which I’ve included below.  The article calls out three areas in Agile thinking - Agile Teams, Agile at Scale, and Business Agility - with key events that either fostered the growth of opinions or reeled them in towards consensus.  It’s a good read, one to add to your list _after_ this post. &lt;wink wink>
@@ -16,13 +17,17 @@ Each wave is basically a problem statement.  It’s saying "How do I/We do &lt;i
 
 The problems people are really bringing forward are rarely phrased that way.  Instead I more often hear:
 
-"I want to build this awesome product.  How can I get my team to do it without taking 18 months?" - _Agile Teams_
+"I want to build this awesome product.  How can I get my team to do it without taking 18 months?"
+_Agile Teams_
 
-"I want to build this awesome product and have money to throw out the window, so I hired 70 people out of the gate so I can get this done in 4 months.  How can I get them to build the product without taking 3 years?" - _Agile Teams, Agile at Scale_
+"I want to build this awesome product and have money to throw out the window, so I hired 70 people out of the gate so I can get this done in 4 months.  How can I get them to build the product without taking 3 years?"
+_Agile Teams, Agile at Scale_
 
-"I have all these great teams, and my product is a mess.  How do I get it back on track?" - _Agile at Scale_
+"I have all these great teams, and my product is a mess.  How do I get it back on track?"
+_Agile at Scale_
 
-"I have all these great teams, but no idea what to task them with.  I’d really like to pay them to work on something more valuable than setting a Guinness World Record for stacking K-Cups or looking for a job elsewhere." - _Business Agility_
+"I have all these great teams, but no idea what to task them with.  I’d really like to pay them to work on something more valuable than setting a Guinness World Record for stacking K-Cups or looking for a job elsewhere."
+_Business Agility_
 
 I listed a transition example in there.  Some groups want to scale up right away, primarily because they’ve got all the people and resources lined up to do so.  This is one of the best recipes for failure I’ve seen.  To do something well at scale, large scale that is, means that it can be done well at the _smallest level_ first.  Start with problems, scale up problems.
 
