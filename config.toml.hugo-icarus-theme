@@ -1,0 +1,96 @@
+baseurl = "http://richvisotcky.com/"
+languageCode = "en-us"
+title = "Rich with Agility"
+canonifyURLs = true
+# Enable comments by entering your Disqus shortname
+disqusShortname = "richvisotcky"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-74211344-1"
+# Define the number of posts per page
+paginate = 10
+footnotereturnlinkcontents = "↩"
+theme = "hugo-icarus-theme"
+
+copyright = "Rich Visotcky, All rights reserved."
+author = "Rich Visotcky"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug"
+
+
+[params]
+    # Tell me who you are
+    author = "Rich Visotcky"
+    bio = "Agile Dude"
+    #location = "Earth"
+    #site_description = ""
+    copyright  = "Rich Visotcky, All rights reserved."
+    avatar = "/images/profile.jpg"
+
+    # Format dates with Go's time formatting
+    date_format = "2006-01-02"
+
+# Create custom menu entries by defining a label and a link for
+# them. Since you can also link posts, you've the option the
+# place the links before or after them.
+#
+# E.g.: "Home" appears before all linked posts in the menu
+# and "Tags" / "Categories" after them.
+[[params.menu]]
+    before = true
+    label  = "Home"
+    link   = "/"
+
+[[params.menu]]
+    before = false
+    label  = "Tags"
+    link   = "tags/"
+
+[[params.menu]]
+    before = false
+    label  = "Categories"
+    link   = "categories/"
+
+# Enter a link for the follow button on the left
+[params.profile]
+    follow_button = "https://plus.google.com/+RichVisotcky"
+
+
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# create automatically.
+    github          = "omeganot"
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = ""
+    youtube         = ""
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = ""
+    xing            = ""
+    linkedin        = "richvisotcky"
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = ""
+    pinterest       = ""
+    googleplus      = "RichVisotcky"
+    facebook        = ""
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = "rvisotcky"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = true
+    tag_cloud = true

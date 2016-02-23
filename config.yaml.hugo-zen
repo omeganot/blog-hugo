@@ -4,6 +4,7 @@ title: "Rich with Agility"
 canonifyURLs: true
 theme: "hugo-zen"
 
+googleAnalytics: "UA-74211344-1"
 
 # copyright: "(c) 2015 Rich Visotcky, All rights reserved."
 author: "Rich Visotcky"
@@ -13,3 +14,5 @@ params:
   copyright: "(c) 2015 Rich Visotcky, All rights reserved."
   #github: "https://github.com/omeganot"
   #linkedin: "https://www.linkedin.com/in/richvisotcky"
+
+#disqusShortname: "richvisotcky"
