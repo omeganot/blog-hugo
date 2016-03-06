@@ -15,13 +15,14 @@
             {{ .ReadingTime }}
             {{ with .Site.Data.l10n.articles.readingtime }}{{.}}{{end}}
         </div>
-        
 
-        
+        {{ if or (isset .Params "categories") (isset .Params "tags") }}
+        <br/>
+        {{ end }}
+
         {{ if isset .Params "categories" }}
             {{ $categoriesLen := len .Params.categories }}
             {{ if gt $categoriesLen 0 }}
-            <br/>
             <div class="article-category">
                 <i class="fa fa-folder"></i>
                 {{ range $k, $v := .Params.categories }}
