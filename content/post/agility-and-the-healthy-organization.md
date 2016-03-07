@@ -1,13 +1,13 @@
 +++
 date = "2016-02-04T16:35:13-06:00"
 title = "Agility and the Healthy Organization"
-tags = ["agile", "business", "org health", "teams"]
-categories = ["business agility", "organizational health"]
+tags = ["agile", "business", "business agility", "org health", "teams"]
+categories = ["Organizational-Health"]
 +++
 
 A coworker recently pointed me to an image from a SolutionsIQ blog post [The Third Wave of Agile](http://www.solutionsiq.com/the-third-wave-of-agile/) which I’ve included below.  The article calls out three areas in Agile thinking - Agile Teams, Agile at Scale, and Business Agility - with key events that either fostered the growth of opinions or reeled them in towards consensus.  It’s a good read, one to add to your list _after_ this post. &lt;wink wink>
 
-{{< img src="waves-of-agility.png" caption="© 2016 SolutionsIQ. All rights reserved.">}}
+{{< img src="waves-of-agility.png" alt="© 2016 SolutionsIQ. All rights reserved.">}}
 
 I got something out of this graph that goes a bit beyond the original article - ideas around what people are asking for versus what they feel or fear they need even if they aren’t ready to admit it yet.  I believe Agile Teams and Agile at Scale focus on products; Business Agility treats products as a liability and organizational health as an asset.
 
