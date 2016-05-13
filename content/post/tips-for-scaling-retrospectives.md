@@ -6,9 +6,11 @@ title = "Tips for scaling retrospectives"
 draft = true
 +++
 
-Recently I had the pleasure of joining a few of my fellow [Scrum.org PSTs][1] for a face-to-face gathering in Columbus, OH.  Our community meets several times a year in this way to deepen relationships, share knowledge, and tackle problems facing our group.  One such topic that came up in one of our open spaces was the scaling of retrospectives.
+Having a retrospective is an important part of the inspect/adapt loop for any team.  No matter the batch size of your work, from one item at a time to a month's worth of work, it can be helpful for people to periodically and regularly look at how they're operating and ask what they could change in their personal or work process to make things a bit better.  That self introspection can be daunting for many, even with a team of people that work closely with and trust each other.
 
-Having a retrospective is an important part of the inspect/adapt loop for any team.  No matter the batch size of your work, from one item at a time to a month's worth of work, it can be helpful for people to periodically and regularly look at how they're operating and ask what they could change in their personal or work process to make things a bit better.  That self introspection can be daunting for many, even with a team of people that work closely with and trust each other.  When expanding this to many teams, the challenges expand immensely beyond teasing out the quiet voice.  How does information get processed by the group?  How do they figure out what to take action on?  How are they accountable for their actions?
+When expanding this to many teams, the challenges expand immensely beyond teasing out the quiet voice.  How does information get processed by the group?  How do they figure out what to take action on?  How are they accountable for their actions?
+
+Below are some thoughts to help your organization the next time you gather as a community for a retrospective. 
 
 ### Gathering data
 For the group to figure out what they should improve, they first need to gather information.  Just like regular retrospectives, starting out with the [Retrospective Prime Directive][2] can be a great way to bring everyone together to share information transparently and not turn teams against each other.
@@ -28,7 +30,11 @@ One way to keep the group size managable is to only have elected representatives
 ### Getting to action
 Here's another place in which the [Retrospective Prime Directive][2] comes in handy.  We must believe that the people who participated in the retrospective did the best job they could and we should honor them for that.  Decisions they made are the best they could come up with, and it would at least be worth trying their actions.  We can always make another change at a later time once we've learned more from their plan of action.
 
-Finally, when it comes down to *who* takes on the action item(s), this does not necessarily have to be the responsibility of every member of every team.  Some action items may only require the dedicated efforts of a few individuals to make some progress and help the group out as a whole.  Teams need to give those who shoulder this responsibility the time and support needed to accomplish these goals.  It may cause strain on their specific team, yet their efforts are expected to provide more value to all than the cost of that struggle by one team. 
+Finally, when it comes down to *who* takes on the action item(s), this does not necessarily have to be the responsibility of every member of every team.  Some action items may only require the dedicated efforts of a few individuals to make some progress and help the group out as a whole.  Teams need to give those who shoulder this responsibility the time and support needed to accomplish these goals.  It may cause strain on their specific team, yet their efforts are expected to provide more value to all than the cost of that struggle by one team.
+
+#### Thanks to the community
+This was a topic that came up among a few of my fellow [Scrum.org PSTs][1] during a face-to-face gathering in Columbus, OH.  Our community meets several times a year in this way to deepen relationships, share knowledge, and tackle problems facing our group.  It's wonderful to share experiences with each other, and I'm glad I can share them with you here.
+
 
 [1]: https://www.scrum.org/Find-a-Scrum-Trainer
 [2]: http://www.retrospectives.com/pages/retroPrimeDirective.html
