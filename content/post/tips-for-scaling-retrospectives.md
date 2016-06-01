@@ -3,7 +3,6 @@ date = "2016-05-31T23:02:58-05:00"
 tags = ["agile", "scaling", "retrospectives", "F2F", "Scrum.org"]
 categories = ["Scaling"]
 title = "Tips for scaling retrospectives"
-draft = true
 +++
 
 Having a retrospective is an important part of the inspect/adapt loop for any team.  No matter the batch size of your work, from one item at a time to a month's worth of work, it can be helpful for people to periodically and regularly look at how they're operating and ask what they could change in their personal or work process to make things a bit better.  That self introspection can be daunting for many, even with a team of people who work closely with and trust each other.
@@ -13,7 +12,7 @@ When expanding this to many teams, the challenges expand immensely beyond teasin
 Below are some thoughts to help your organization the next time you gather as a community for a retrospective. 
 
 ### Elect representatives
-One way to keep the group size manageable is to only have elected representatives from each team participate.  Each team elects members from their own team, a maximum number pre-determined by the group at large, to represent their insights and ideas to the larger audience.  Electing from within empowers teams to select a person or persons they trust and empowers the individual(s) selected to take action on behalf of the team.
+One way to keep the group size manageable is to have elected representatives from each team participate.  Each team selects members from their own team, a maximum number pre-determined by the group at large, to represent their insights and ideas to the larger audience.  This empowers teams to select a person or persons they trust to represent their ideas and empowers the individual(s) selected to take action on behalf of the team.
 
 ### Keep the focus on the system
 When having a scaled retrospective, it's important that participants keep their discussion focused on the system as a whole.  The natural tendency for people is to bring up issues that are affecting their team.  There's a time and place for this, and it's in the team's own retrospective.  Teams need time to sort out problems unique to their own group, problems which may or may not exist across the collection of teams.
