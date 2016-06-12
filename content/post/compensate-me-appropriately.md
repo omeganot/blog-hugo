@@ -1,11 +1,9 @@
 +++
-categories = []
+categories = ["Org Change"]
 date = "2016-06-09T21:28:04-05:00"
-description = ""
-images = []
-menu = ""
-tags = []
+tags = ["management", "organizations"]
 title = "Compensate me appropriately"
+draft = true
 
 +++
 
