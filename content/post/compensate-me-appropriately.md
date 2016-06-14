@@ -19,7 +19,7 @@ As much as employees are often left disappointed following an annual salary adju
 ## Beyond annual pay
 GE is [beginning their shift][2] away from annual raises much like they shifted away from annual performance reviews.  When rewards are temporally related to the actions taken and tied to actionable feedback, they are much more impactful.  But while the frequency of rewards is just one part of the equation, as we explored above pay only goes so far.  What might people really want?  Some know that work happens anywhere, anytime, so play should be the same way.  Some might want the chance to do something outrageous in pursuit of the mission and should be acknowledged and rewarded for that [*even if they fail*][7].  Some want their pay to be updated as frequent as their competencies and contributions to the organization increase.  Regardless of what any specific incentives a person may be swayed by, we all want the same thing at the core - *to be compensated appropriately, and fairly, for the value we bring to our organizations.*
 
-The transition away from annual salary adjustments as the primary means to compensate people in ways that matter to them and let people know they are valued does not have to be a drastic one, nor even a costly one.  [Kudo cards][8] and [merit money][9] can be 
+The transition away from annual salary adjustments as the primary means to compensate people in ways that matter to them and let people know they are valued does not have to be a drastic one, nor even a costly one.  [Kudo cards][8] and [merit money][9] can be great starters to increasing feedback cycles along with simple rewards, and companies like [Bonus.ly][10] provide tools to support such practices.
 
 [1]: http://www.erikweberconsulting.com/blog/2016/6/12/erik-picks-a-title
 [2]: http://www.bloomberg.com/news/articles/2016-06-06/ge-studies-scrapping-annual-raise-in-nod-to-shifting-priorities
@@ -30,4 +30,4 @@ The transition away from annual salary adjustments as the primary means to compe
 [7]: https://www.ted.com/talks/astro_teller_the_unexpected_benefit_of_celebrating_failure
 [8]: https://management30.com/product/kudo-cards/
 [9]: https://management30.com/product/workouts/merit-money-bonus-systems/
-[10]:
+[10]: https://bonus.ly/
