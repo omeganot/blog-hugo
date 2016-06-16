@@ -1,10 +1,8 @@
 +++
 categories = ["Org Change"]
 date = "2016-06-09T21:28:04-05:00"
-tags = ["management", "organizations"]
+tags = ["management", "organizations", "compensation"]
 title = "Compensate me appropriately"
-draft = true
-
 +++
 
 GE has been making managerial news lately as they [begin their shift][2] away from annual raises much like they shifted away from annual performance reviews.  It got me thinking about my compensation preferences, and the many discussions I've had with coworkers over the years about the same.  In every company I've worked for I've had a conversation with my employer about trading pay for extra time off.  This rarely jibed with the vacation policy of my employer and required comprehensive questioning.  If I work overtime, can I bank it as PTO instead of getting paid extra?  Can I get some overtime pay and some PTO?  Can I take leave without pay?  All yes/no questions that are anything but simple to answer.
