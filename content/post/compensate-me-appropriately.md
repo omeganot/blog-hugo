@@ -23,7 +23,7 @@ While the frequency of rewards is just one part of the equation, pay only goes s
 
 The transition away from annual salary adjustments as the primary means to compensate people in ways that matter to them and let people know they are valued does not have to be drastic or costly.  [Kudo cards][8] can be great starters to increasing feedback cycles which combined with [merit money][9] offer simple team-based rewards.  I also suggest experimenting with experiential rewards over financial ones for the [memory][10] that becomes associated with them.  The journey isn't simple, but the rewards of a happy, engaged and retained workforce are worth the effort.
 
-[1]: http://www.erikweberconsulting.com/blog/2016/6/12/erik-picks-a-title
+[1]: http://www.erikweberconsulting.com/blog/2016/6/14/apr
 [2]: http://www.bloomberg.com/news/articles/2016-06-06/ge-studies-scrapping-annual-raise-in-nod-to-shifting-priorities
 [3]: https://youtu.be/u6XAPnuFjJc?t=285
 [4]: http://www.danpink.com/books/drive/
