@@ -1,10 +1,8 @@
 +++
 categories = ["Org Change"]
 date = "2016-06-09T21:28:04-05:00"
-tags = ["management", "organizations"]
+tags = ["management", "organizations", "compensation"]
 title = "Compensate me appropriately"
-draft = true
-
 +++
 
 GE has been making managerial news lately as they [begin their shift][2] away from annual raises much like they shifted away from annual performance reviews.  It got me thinking about my compensation preferences, and the many discussions I've had with coworkers over the years about the same.  In every company I've worked for I've had a conversation with my employer about trading pay for extra time off.  This rarely jibed with the vacation policy of my employer and required comprehensive questioning.  If I work overtime, can I bank it as PTO instead of getting paid extra?  Can I get some overtime pay and some PTO?  Can I take leave without pay?  All yes/no questions that are anything but simple to answer.
@@ -23,7 +21,7 @@ While the frequency of rewards is just one part of the equation, pay only goes s
 
 The transition away from annual salary adjustments as the primary means to compensate people in ways that matter to them and let people know they are valued does not have to be drastic or costly.  [Kudo cards][8] can be great starters to increasing feedback cycles which combined with [merit money][9] offer simple team-based rewards.  I also suggest experimenting with experiential rewards over financial ones for the [memory][10] that becomes associated with them.  The journey isn't simple, but the rewards of a happy, engaged and retained workforce are worth the effort.
 
-[1]: http://www.erikweberconsulting.com/blog/2016/6/12/erik-picks-a-title
+[1]: http://www.erikweberconsulting.com/blog/2016/6/14/apr
 [2]: http://www.bloomberg.com/news/articles/2016-06-06/ge-studies-scrapping-annual-raise-in-nod-to-shifting-priorities
 [3]: https://youtu.be/u6XAPnuFjJc?t=285
 [4]: http://www.danpink.com/books/drive/
