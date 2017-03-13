@@ -1,7 +1,7 @@
 baseurl = "http://richvisotcky.com/"
 languageCode = "en-us"
 title = "Rich with Agility"
-canonifyURLs = true
+canonifyURLs = false
 # Enable comments by entering your Disqus shortname
 disqusShortname = "richvisotcky"
 # Enable Google Analytics by entering your tracking code
@@ -30,6 +30,8 @@ author = "Rich Visotcky"
 
     # Format dates with Go's time formatting
     date_format = "2006-01-02"
+
+    custom_css = [ "css/custom.css" ]
 
 # Create custom menu entries by defining a label and a link for
 # them. Since you can also link posts, you've the option the
