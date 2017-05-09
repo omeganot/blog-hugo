@@ -47,8 +47,6 @@ Learning a new Agile technique can be very similar, requiring practice before ef
 
 If all Daniel­-san knew was "paint the house" then he wouldn't be very effective at karate. It took floor sanding, car waxing, and house painting as well all brought together to become a karate natural. Being Agile works the same way. You can "do" many different techniques and methods, but bringing the practices and principles from many together as the situation requires to use the right thing at the right time will help you to "be" Agile.
 
-*This post was originally written for Centare, and can be found [here](http://www.centare.com/becoming-the-karate-kid-of-agile/ "Becoming the Karate Kid of Agile").*
-
 
 [2]: http://wikispeed.org/join-the-team/the-wikispeed-process/
 [3]: http://agilemanifesto.org

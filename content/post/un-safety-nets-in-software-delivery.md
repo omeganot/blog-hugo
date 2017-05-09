@@ -7,7 +7,7 @@ title = "\"Un-safety\" nets in software delivery"
 menu = ""
 description = ""
 categories = []
-
+draft = true
 +++
 
 <!--more-->
