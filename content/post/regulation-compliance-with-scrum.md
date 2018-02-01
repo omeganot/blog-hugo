@@ -27,8 +27,6 @@ While software may be released each sprint, it likely isn't being depreciated ea
 
 Pat Reed summed this up nicely along with Laszlo Szalvay in [a session][2] at Agile 2013 encouraging that we "Re-evaluate the problem that was trying to be solved when the rules were first written."  The rules don't have to keep your company in the waterfall ages forever.  Use the transparency called for by Scrum to your advantage and develop a set of guidelines that will help, not hinder, your company's ability to deliver value while meeting regulations.
 
-*This post was originally written for Centare, and can be found [here](http://www.centare.com/scrum-and-regulation-compliance/ "The State of Agility – Regulation Compliance with Scrum").* 
-
 
 [1]: http://www.infoq.com/articles/agile-capitalization
 [2]: http://www.slideshare.net/laszlos/2013-scrum-grcfinal728
