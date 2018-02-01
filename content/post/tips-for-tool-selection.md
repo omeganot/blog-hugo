@@ -33,7 +33,9 @@ Do you know what you already have access to in your organization?  If not, find 
 
 Just because something isn't well understood doesn't mean we shouldn't use it.  Try, learn, and ask questions.  Different people will absorb and master tools at different rates.  You're not likely to make everyone happy with any single tool selection, but that doesn't mean the tool isn't effective in its selected purpose across the organization.  If the tool is really impeding work beyond a learning curve, perhaps it's time to consider something else.
 
-When you ultimately choose to pick a different tool to help solve a problem at hand, speaking to the benefits it provides over existing options _and also explaining what it will cost the organization_ (mentally, effectiveness, monitarily, etc.) will go a long way toward helping everyone understand how you made your informed choice.  Another good thing to consider here is, could we not just add a tool, but replace and or remove multiple tools by selecting a new one?
+When you ultimately choose to pick a different tool to help solve a problem at hand, speak to the benefits it provides over existing options _and also explaining what it will cost (mentally, effectiveness, monitarily, etc.) the organization._ This will go a long way toward helping everyone understand how you made your informed choice.  Another good thing to consider here is, could we not just add a tool, but replace and or remove multiple tools by selecting a new one?
+
+Lastly on this, just because there is a tool or tools your organization uses to accomplish similar work doesn't mean it has to be the thing you use.  The points above about having the discussion about why are important here, but a key why is that tools are here to serve people.  You're a person.  Make sure your tool serves you and try to do it without that use causing pain and lowering the effectiveness of those around you.
 
 {{< img src="alton-brown-amazon-kitchen-review.png" >}}
 
